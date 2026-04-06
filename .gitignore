@@ -1,5 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (IMPORTANT)
 data/raw/
 data/processed/
-*.parquet
-__pycache__/
-.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
