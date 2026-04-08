@@ -3,4 +3,5 @@ pymongo
 pandas
 matplotlib
 seaborn
-MongoDB Community Server
+pyarrow
+ipykernel
